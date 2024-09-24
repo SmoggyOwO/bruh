@@ -8,4 +8,4 @@ app.get('/', (req, res) => {
 });
 
 // Start the server
-app.listen(80);
+app.listen(3000);
